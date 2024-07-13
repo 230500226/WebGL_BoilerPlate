@@ -1,0 +1,15 @@
+html, head, body {
+    margin: 0;
+    padding: 25px;
+    background-color: #2a2a2a;
+}
+
+#IDcanvas {
+    width: 700px;
+    height: 700px;
+
+    background-color: #da6052;
+
+    /* Help to illustrate the rasterizer's job: when artificially lowering resolution, show pixelated image */
+    image-rendering: crisp-edges;
+}
