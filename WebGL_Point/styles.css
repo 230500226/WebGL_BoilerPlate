@@ -9,7 +9,7 @@ html, head, body {
 }
 
 /* Apply styles to the element with id 'mainCanvas' */
-#mainCanvas {
+#canvas {
     /* Set the width of the canvas */
     width: 600px;
     /* Set the height of the canvas */
